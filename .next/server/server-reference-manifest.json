@@ -1,0 +1,78 @@
+{
+  "node": {
+    "23b602eed8493dde1532856fbb981a083167be61": {
+      "workers": {
+        "app/account/reservations/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CCodes%5C%5CUniBook%5C%5Cunibook-app%5C%5Capp%5C%5C_lib%5C%5Cactions.js%22%2C%5B%22updateGuest%22%2C%22signInAction%22%2C%22createBooking%22%2C%22updateBooking%22%2C%22deleteBooking%22%2C%22signOutAction%22%5D%5D%5D&__client_imported__=true!",
+        "app/account/reservations/edit/[bookingId]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CCodes%5C%5CUniBook%5C%5Cunibook-app%5C%5Capp%5C%5C_lib%5C%5Cactions.js%22%2C%5B%22updateGuest%22%2C%22signInAction%22%2C%22createBooking%22%2C%22updateBooking%22%2C%22deleteBooking%22%2C%22signOutAction%22%5D%5D%5D&__client_imported__=!",
+        "app/account/profile/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CCodes%5C%5CUniBook%5C%5Cunibook-app%5C%5Capp%5C%5C_lib%5C%5Cactions.js%22%2C%5B%22updateGuest%22%2C%22signInAction%22%2C%22createBooking%22%2C%22updateBooking%22%2C%22deleteBooking%22%2C%22signOutAction%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/account/reservations/page": "action-browser",
+        "app/account/reservations/edit/[bookingId]/page": "rsc",
+        "app/account/profile/page": "action-browser"
+      }
+    },
+    "3f84e5e982fa1809d4f9e924bc3dd41b5308426e": {
+      "workers": {
+        "app/account/reservations/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CCodes%5C%5CUniBook%5C%5Cunibook-app%5C%5Capp%5C%5C_lib%5C%5Cactions.js%22%2C%5B%22updateGuest%22%2C%22signInAction%22%2C%22createBooking%22%2C%22updateBooking%22%2C%22deleteBooking%22%2C%22signOutAction%22%5D%5D%5D&__client_imported__=true!",
+        "app/account/reservations/edit/[bookingId]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CCodes%5C%5CUniBook%5C%5Cunibook-app%5C%5Capp%5C%5C_lib%5C%5Cactions.js%22%2C%5B%22updateGuest%22%2C%22signInAction%22%2C%22createBooking%22%2C%22updateBooking%22%2C%22deleteBooking%22%2C%22signOutAction%22%5D%5D%5D&__client_imported__=!",
+        "app/account/profile/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CCodes%5C%5CUniBook%5C%5Cunibook-app%5C%5Capp%5C%5C_lib%5C%5Cactions.js%22%2C%5B%22updateGuest%22%2C%22signInAction%22%2C%22createBooking%22%2C%22updateBooking%22%2C%22deleteBooking%22%2C%22signOutAction%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/account/reservations/page": "action-browser",
+        "app/account/reservations/edit/[bookingId]/page": "rsc",
+        "app/account/profile/page": "action-browser"
+      }
+    },
+    "42461a5361072aac09277f5d91eded35133c18a4": {
+      "workers": {
+        "app/account/reservations/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CCodes%5C%5CUniBook%5C%5Cunibook-app%5C%5Capp%5C%5C_lib%5C%5Cactions.js%22%2C%5B%22updateGuest%22%2C%22signInAction%22%2C%22createBooking%22%2C%22updateBooking%22%2C%22deleteBooking%22%2C%22signOutAction%22%5D%5D%5D&__client_imported__=true!",
+        "app/account/reservations/edit/[bookingId]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CCodes%5C%5CUniBook%5C%5Cunibook-app%5C%5Capp%5C%5C_lib%5C%5Cactions.js%22%2C%5B%22updateGuest%22%2C%22signInAction%22%2C%22createBooking%22%2C%22updateBooking%22%2C%22deleteBooking%22%2C%22signOutAction%22%5D%5D%5D&__client_imported__=!",
+        "app/account/profile/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CCodes%5C%5CUniBook%5C%5Cunibook-app%5C%5Capp%5C%5C_lib%5C%5Cactions.js%22%2C%5B%22updateGuest%22%2C%22signInAction%22%2C%22createBooking%22%2C%22updateBooking%22%2C%22deleteBooking%22%2C%22signOutAction%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/account/reservations/page": "action-browser",
+        "app/account/reservations/edit/[bookingId]/page": "rsc",
+        "app/account/profile/page": "action-browser"
+      }
+    },
+    "9bb9b183bd08f37bf1748ebc9422b0385c0bc618": {
+      "workers": {
+        "app/account/reservations/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CCodes%5C%5CUniBook%5C%5Cunibook-app%5C%5Capp%5C%5C_lib%5C%5Cactions.js%22%2C%5B%22updateGuest%22%2C%22signInAction%22%2C%22createBooking%22%2C%22updateBooking%22%2C%22deleteBooking%22%2C%22signOutAction%22%5D%5D%5D&__client_imported__=true!",
+        "app/account/reservations/edit/[bookingId]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CCodes%5C%5CUniBook%5C%5Cunibook-app%5C%5Capp%5C%5C_lib%5C%5Cactions.js%22%2C%5B%22updateGuest%22%2C%22signInAction%22%2C%22createBooking%22%2C%22updateBooking%22%2C%22deleteBooking%22%2C%22signOutAction%22%5D%5D%5D&__client_imported__=!",
+        "app/account/profile/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CCodes%5C%5CUniBook%5C%5Cunibook-app%5C%5Capp%5C%5C_lib%5C%5Cactions.js%22%2C%5B%22updateGuest%22%2C%22signInAction%22%2C%22createBooking%22%2C%22updateBooking%22%2C%22deleteBooking%22%2C%22signOutAction%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/account/reservations/page": "action-browser",
+        "app/account/reservations/edit/[bookingId]/page": "rsc",
+        "app/account/profile/page": "action-browser"
+      }
+    },
+    "a28e42a208df02350c9222246bf23503d6e4bf25": {
+      "workers": {
+        "app/account/reservations/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CCodes%5C%5CUniBook%5C%5Cunibook-app%5C%5Capp%5C%5C_lib%5C%5Cactions.js%22%2C%5B%22updateGuest%22%2C%22signInAction%22%2C%22createBooking%22%2C%22updateBooking%22%2C%22deleteBooking%22%2C%22signOutAction%22%5D%5D%5D&__client_imported__=true!",
+        "app/account/reservations/edit/[bookingId]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CCodes%5C%5CUniBook%5C%5Cunibook-app%5C%5Capp%5C%5C_lib%5C%5Cactions.js%22%2C%5B%22updateGuest%22%2C%22signInAction%22%2C%22createBooking%22%2C%22updateBooking%22%2C%22deleteBooking%22%2C%22signOutAction%22%5D%5D%5D&__client_imported__=!",
+        "app/account/profile/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CCodes%5C%5CUniBook%5C%5Cunibook-app%5C%5Capp%5C%5C_lib%5C%5Cactions.js%22%2C%5B%22updateGuest%22%2C%22signInAction%22%2C%22createBooking%22%2C%22updateBooking%22%2C%22deleteBooking%22%2C%22signOutAction%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/account/reservations/page": "action-browser",
+        "app/account/reservations/edit/[bookingId]/page": "rsc",
+        "app/account/profile/page": "action-browser"
+      }
+    },
+    "ceff51c4ecaaea5d117e03bcfd3b55ccddc26108": {
+      "workers": {
+        "app/account/reservations/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CCodes%5C%5CUniBook%5C%5Cunibook-app%5C%5Capp%5C%5C_lib%5C%5Cactions.js%22%2C%5B%22updateGuest%22%2C%22signInAction%22%2C%22createBooking%22%2C%22updateBooking%22%2C%22deleteBooking%22%2C%22signOutAction%22%5D%5D%5D&__client_imported__=true!",
+        "app/account/reservations/edit/[bookingId]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CCodes%5C%5CUniBook%5C%5Cunibook-app%5C%5Capp%5C%5C_lib%5C%5Cactions.js%22%2C%5B%22updateGuest%22%2C%22signInAction%22%2C%22createBooking%22%2C%22updateBooking%22%2C%22deleteBooking%22%2C%22signOutAction%22%5D%5D%5D&__client_imported__=!",
+        "app/account/profile/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CCodes%5C%5CUniBook%5C%5Cunibook-app%5C%5Capp%5C%5C_lib%5C%5Cactions.js%22%2C%5B%22updateGuest%22%2C%22signInAction%22%2C%22createBooking%22%2C%22updateBooking%22%2C%22deleteBooking%22%2C%22signOutAction%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/account/reservations/page": "action-browser",
+        "app/account/reservations/edit/[bookingId]/page": "rsc",
+        "app/account/profile/page": "action-browser"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "e343Yrfq84nQESxlaOc1N6L2yilv+SzNqoTPBTBd9qs="
+}

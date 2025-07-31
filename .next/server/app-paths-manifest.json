@@ -1,0 +1,8 @@
+{
+  "/icon.svg/route": "app/icon.svg/route.js",
+  "/about/page": "app/about/page.js",
+  "/resources/page": "app/resources/page.js",
+  "/account/reservations/page": "app/account/reservations/page.js",
+  "/account/reservations/edit/[bookingId]/page": "app/account/reservations/edit/[bookingId]/page.js",
+  "/account/profile/page": "app/account/profile/page.js"
+}

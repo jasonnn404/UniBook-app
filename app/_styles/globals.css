@@ -1,0 +1,81 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .spinner {
+    margin: 3.2rem auto 1.6rem;
+    width: 60px;
+    aspect-ratio: 1;
+    border-radius: 50%;
+    border: 8px solid theme("colors.primary.900");
+    border-right-color: theme("colors.primary.200");
+    animation: rotate 1s infinite linear;
+  }
+
+  .spinner-mini {
+    margin: 0;
+    width: 20px;
+    aspect-ratio: 1;
+    border-radius: 50%;
+    border: 2px solid theme("colors.primary.200");
+    border-right-color: transparent;
+    animation: rotate 1s infinite linear;
+  }
+
+  @keyframes rotate {
+    to {
+      transform: rotate(1turn);
+    }
+  }
+}
+
+/* For data picker */
+
+.rdp {
+  --rdp-cell-size: 32px !important;
+  --rdp-accent-color: theme("colors.accent.500") !important;
+  --rdp-background-color: theme("colors.accent.600") !important;
+  margin: 0 !important;
+}
+
+/* Improved month/year dropdown visibility */
+.rdp-caption_dropdowns {
+  display: flex;
+  gap: 0.5rem;
+}
+
+.rdp-dropdown {
+  background-color: theme("colors.primary.800") !important;
+  color: theme("colors.primary.200") !important;
+  border: 1px solid theme("colors.primary.600") !important;
+  border-radius: 0.25rem !important;
+  padding: 0.25rem 0.5rem !important;
+  font-size: 0.875rem !important;
+  font-weight: 500 !important;
+}
+
+.rdp-dropdown:hover {
+  background-color: theme("colors.primary.700") !important;
+  border-color: theme("colors.primary.500") !important;
+}
+
+.rdp-dropdown:focus {
+  outline: 2px solid theme("colors.accent.500") !important;
+  outline-offset: 2px !important;
+}
+
+.rdp-dropdown option {
+  background-color: theme("colors.primary.800") !important;
+  color: theme("colors.primary.200") !important;
+  padding: 0.5rem !important;
+}
+
+.rdp-dropdown option:hover {
+  background-color: theme("colors.primary.700") !important;
+}
+
+.rdp-dropdown option:checked {
+  background-color: theme("colors.accent.500") !important;
+  color: theme("colors.primary.800") !important;
+}
