@@ -1,6 +1,9 @@
 # 🎓 UniBook - University Resource Booking Platform
 
-A modern, full-stack university resource booking platform built with **Next.js 14**, **Supabase**, and **NextAuth.js**. This application enables students, faculty, and staff to seamlessly book university facilities including study rooms, computer labs, meeting rooms, gyms, and more.
+A modern, full-stack university resource booking platform built with **Next.js 14**, **Supabase**, and **NextAuth.js**. This application enables students, faculty, and staff to seamlessly book university facilities, including study rooms, computer labs, meeting rooms, gyms, and more.
+
+![screenshot](readme_images/app1.png)
+![screenshot](readme_images/app4.png)
 
 ## 🚀 Key Features
 
@@ -11,6 +14,9 @@ A modern, full-stack university resource booking platform built with **Next.js 1
 - **Real-time Availability**: Live updates showing current booking status
 - **Detailed Information**: View pricing, capacity, descriptions, and images
 
+![screenshot](readme_images/app2.png)
+![screenshot](readme_images/app14.png)
+
 ### 📅 **Advanced Booking System**
 
 - **Flexible Duration**: Book resources for hours or full days
@@ -19,12 +25,22 @@ A modern, full-stack university resource booking platform built with **Next.js 1
 - **Booking History**: Track past, current, and upcoming reservations
 - **Past Booking Detection**: Smart logic to identify completed bookings
 
+![screenshot](readme_images/app3.png)
+![screenshot](readme_images/app9.png)
+![screenshot](readme_images/app10.png)
+
 ### 👤 **User Experience**
 
 - **Google OAuth Integration**: Secure, one-click authentication
 - **Personal Dashboard**: Manage bookings, profile, and preferences
 - **Responsive Design**: Optimized for desktop, tablet, and mobile
 - **Dark Theme**: Modern UI designed for academic environments
+
+![screenshot](readme_images/app5.png)
+![screenshot](readme_images/app7.png)
+![screenshot](readme_images/app11.png)
+![screenshot](readme_images/app12.png)
+![screenshot](readme_images/app13.png)
 
 ### 🛡️ **Security & Performance**
 
