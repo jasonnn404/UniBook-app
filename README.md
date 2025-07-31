@@ -2,18 +2,6 @@
 
 A modern, full-stack university resource booking platform built with **Next.js 14**, **Supabase**, and **NextAuth.js**. This application enables students, faculty, and staff to seamlessly book university facilities including study rooms, computer labs, meeting rooms, gyms, and more.
 
-## ✨ Live Demo
-
-🌐 **Live Application**: [Deploy your app and add the URL here]
-
-📱 **Features Demo**:
-
-- Browse available resources with real-time availability
-- Secure Google OAuth authentication
-- Intuitive booking system with date/time selection
-- Responsive design for all devices
-- User dashboard with booking history
-
 ## 🚀 Key Features
 
 ### 📚 **Resource Management**
